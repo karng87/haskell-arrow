@@ -1,1 +1,1 @@
-# haskell-arrow
+# [haskell-arrow](https://www.haskell.org/arrows/)
